@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-18T13:10:03 IST" name="Default suite" finished-at="2023-09-18T13:10:12 IST" duration-ms="9638">
+    <groups>
+    </groups>
+    <test started-at="2023-09-18T13:10:03 IST" name="Default test" finished-at="2023-09-18T13:10:12 IST" duration-ms="9638">
+      <class name="apiTestPackage.ApiTests">
+        <test-method is-config="true" signature="postData()[pri:0, instance:apiTestPackage.ApiTests@68c72235]" started-at="2023-09-18T13:10:03 IST" name="postData" finished-at="2023-09-18T13:10:04 IST" duration-ms="809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postData -->
+        <test-method signature="testRegistration()[pri:1, instance:apiTestPackage.ApiTests@68c72235]" started-at="2023-09-18T13:10:04 IST" name="testRegistration" finished-at="2023-09-18T13:10:09 IST" duration-ms="4988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method signature="testLogin()[pri:2, instance:apiTestPackage.ApiTests@68c72235]" started-at="2023-09-18T13:10:09 IST" name="testLogin" finished-at="2023-09-18T13:10:09 IST" duration-ms="630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method signature="testGetUsers()[pri:3, instance:apiTestPackage.ApiTests@68c72235]" started-at="2023-09-18T13:10:09 IST" name="testGetUsers" finished-at="2023-09-18T13:10:10 IST" duration-ms="1154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUsers -->
+        <test-method signature="testGetUserDetails()[pri:4, instance:apiTestPackage.ApiTests@68c72235]" started-at="2023-09-18T13:10:10 IST" name="testGetUserDetails" finished-at="2023-09-18T13:10:11 IST" duration-ms="428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUserDetails -->
+        <test-method signature="testUpdateUserDetails()[pri:5, instance:apiTestPackage.ApiTests@68c72235]" started-at="2023-09-18T13:10:11 IST" name="testUpdateUserDetails" finished-at="2023-09-18T13:10:12 IST" duration-ms="874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateUserDetails -->
+        <test-method signature="testDeleteUserDetails()[pri:6, instance:apiTestPackage.ApiTests@68c72235]" started-at="2023-09-18T13:10:12 IST" name="testDeleteUserDetails" finished-at="2023-09-18T13:10:12 IST" duration-ms="659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUserDetails -->
+      </class> <!-- apiTestPackage.ApiTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
